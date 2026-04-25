@@ -86,6 +86,8 @@ python run_all.py
 Launch dashboard:
 
 streamlit run src/dashboard/app.py
+
+```
 Evaluation
 
 The system is evaluated using:
